@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tracker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tracker\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tracker()
+comment2.params=x
+comment2.target=void\ setLocation(int)
+comment3.params=
+comment3.target=void\ drawImage()
+numComments=4
